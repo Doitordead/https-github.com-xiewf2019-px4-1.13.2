@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PX4-Autopilot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PX4-Autopilot/Tools/flightgear_bridge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PX4-Autopilot/Tools/flightgear_bridge/models/Rascal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PX4-Autopilot/Tools/flightgear_bridge/models/TF-G1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PX4-Autopilot/Tools/flightgear_bridge/models/TF-G2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PX4-Autopilot/Tools/flightgear_bridge/models/TF-R1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PX4-Autopilot/Tools/jMAVSim" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PX4-Autopilot/Tools/jMAVSim/jMAVlib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PX4-Autopilot/Tools/jsbsim_bridge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PX4-Autopilot/Tools/jsbsim_bridge/models/ATI-Resolution" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PX4-Autopilot/Tools/jsbsim_bridge/models/Rascal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PX4-Autopilot/Tools/simulation-ignition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PX4-Autopilot/Tools/sitl_gazebo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PX4-Autopilot/Tools/sitl_gazebo/external/OpticalFlow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PX4-Autopilot/Tools/sitl_gazebo/external/OpticalFlow/external/klt_feature_tracker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PX4-Autopilot/src/drivers/gps/devices" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PX4-Autopilot/src/lib/events/libevents" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PX4-Autopilot/src/lib/events/libevents/libs/cpp/parse/nlohmann_json" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PX4-Autopilot/src/modules/mavlink/mavlink" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PX4-Autopilot/src/modules/mavlink/mavlink/pymavlink" vcs="Git" />
+  </component>
+</project>
